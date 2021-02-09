@@ -1,0 +1,5 @@
+/tmp
+/test_ground
+**/.ipynb_checkpoints
+**/__pycache__
+*.pyc
