@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/329631685.svg)](https://zenodo.org/badge/latestdoi/329631685)
+
 # Code for Manuscript Grigalunas et al. 
 
 This repository contains the code for the cheminformatics analysis of Grigalunas, Burhop, Zinken et al.
